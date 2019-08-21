@@ -1,0 +1,61 @@
+"","class","order","family","scientificname","comm.english","comm.fr","species.code","aphia.id"
+"29","Myxini","Myxiniformes","Myxinidae","Myxine glutinosa","Northern hagfish","Myxine du nord",241,101170
+"55","Actinopterygii","Aulopiformes","Paralepididae","Arctozenus risso","White barracudina","Lussion blanc",712,126352
+"14","Actinopterygii","Clupeiformes","Clupeidae","Alosa pseudoharengus","Alewife","Gaspereau",62,158669
+"1","Actinopterygii","Gadiformes","Gadidae","Gadus morhua","Atlantic cod","Morue franche",10,126436
+"2","Actinopterygii","Gadiformes","Gadidae","Melanogrammus aeglefinus","Haddock","Aiglefin",11,126437
+"5","Actinopterygii","Gadiformes","Gadidae","Pollachius virens","Pollock","Goberge",16,126441
+"18","Actinopterygii","Gadiformes","Gadidae","Boreogadus saida","Arctic cod","Morue arctique",110,126433
+"21","Actinopterygii","Gadiformes","Gadidae","Gadus macrocephalus","Greenland cod","Ogac",118,254538
+"20","Actinopterygii","Gadiformes","Lotidae","Enchelyopus cimbrius","Fourbeard rockling","Motelle à quatre barbillons",114,126450
+"40","Actinopterygii","Gadiformes","Macrouridae","Nezumia bairdii","Marlin-Spike grenadier","Grenadier du grand banc",410,183289
+"4","Actinopterygii","Gadiformes","Merlucciidae","Merluccius bilinearis","Silver hake","Merluche argentée",14,158962
+"3","Actinopterygii","Gadiformes","Phycidae","Urophycis tenuis","White hake","Merluche blanche",12,126504
+"19","Actinopterygii","Gadiformes","Phycidae","Phycis chesteri","Longfin hake","Merluche à longues nageoires",112,158988
+"39","Actinopterygii","Gasterosteiformes","Gasterosteidae","Gasterosteus aculeatus","Threespine stickleback","Épinoche à trois épines",361,126505
+"15","Actinopterygii","Osmeriformes","Osmeridae","Osmerus mordax mordax","Rainbow smelt","Éperlan d'Amérique",63,293649
+"16","Actinopterygii","Osmeriformes","Osmeridae","Mallotus villosus","Capelin","Capelan",64,126735
+"44","Actinopterygii","Perciformes","Ammodytidae","Ammodytes dubius","Northern sand lance","Lançon du nord",610,151520
+"13","Actinopterygii","Perciformes","Anarhichadidae","Anarhichas lupus","Atlantic wolffish","Loup atlantique",50,126758
+"22","Actinopterygii","Perciformes","Labridae","Tautogolabrus adspersus","Cunner","Tanche-tautogue",122,159785
+"17","Actinopterygii","Perciformes","Scombridae","Scomber scombrus","Atlantic mackerel","Maquereau bleu",70,127023
+"46","Actinopterygii","Perciformes","Stichaeidae","Lumpenus lampretaeformis","Snake blenny","Lompénie serpent",622,154675
+"47","Actinopterygii","Perciformes","Stichaeidae","Leptoclinus maculatus","Daubed shanny","Lompénie tachetée",623,127072
+"48","Actinopterygii","Perciformes","Stichaeidae","Stichaeus punctatus punctatus","Arctic shanny","Stichée arctique",624,293745
+"49","Actinopterygii","Perciformes","Stichaeidae","Eumesogrammus praecisus","Fourline snakeblenny","Quatre-lignes atlantique",626,159817
+"50","Actinopterygii","Perciformes","Stichaeidae","Lumpenus fabricii","Slender eelblenny","Lompénie élancée",631,127073
+"54","Actinopterygii","Perciformes","Stromateidae","Peprilus triacanthus","Butterfish","Stromatée à fossette",701,159828
+"45","Actinopterygii","Perciformes","Zoarcidae","Gymnelus viridis","Fish doctor","Unernak",616,127096
+"51","Actinopterygii","Perciformes","Zoarcidae","Zoarces americanus","Ocean pout","Loquette atlantique",640,159267
+"52","Actinopterygii","Perciformes","Zoarcidae","Lycodes","Eelpout not specified","Lycode non spécifiée",642,126104
+"53","Actinopterygii","Perciformes","Zoarcidae","Melanostigma atlanticum","Atlantic soft pout","Molasse atlantique",646,127120
+"7","Actinopterygii","Pleuronectiformes","Pleuronectidae","Hippoglossus hippoglossus","Atlantic halibut","Flétan atlantique",30,127138
+"8","Actinopterygii","Pleuronectiformes","Pleuronectidae","Reinhardtius hippoglossoides","Greenland halibut","Flétan du Groenland",31,127144
+"9","Actinopterygii","Pleuronectiformes","Pleuronectidae","Hippoglossoides platessoides","American plaice","Plie canadienne",40,127137
+"10","Actinopterygii","Pleuronectiformes","Pleuronectidae","Glyptocephalus cynoglossus","Witch flounder"," Plie grise",41,127136
+"11","Actinopterygii","Pleuronectiformes","Pleuronectidae","Limanda ferruginea","Yellowtail flounder","Limande à queue jaune",42,158879
+"12","Actinopterygii","Pleuronectiformes","Pleuronectidae","Pseudopleuronectes americanus","Winter flounder","Plie rouge",43,158885
+"23","Actinopterygii","Pleuronectiformes","Scophthalmidae","Scophthalmus aquosus","Windowpane","Turbot de sable",143,158907
+"37","Actinopterygii","Scorpaeniformes","Agonidae","Aspidophoroides monopterygius","Alligatorfish","Poisson-alligator atlantique",340,159459
+"38","Actinopterygii","Scorpaeniformes","Agonidae","Leptagonus decagonus","Atlantic sea poacher","Agone atlantique",350,127191
+"30","Actinopterygii","Scorpaeniformes","Cottidae","Myoxocephalus octodecemspinosus","Longhorn sculpin","Chaboisseau à dix-huit épines",300,159520
+"31","Actinopterygii","Scorpaeniformes","Cottidae","Myoxocephalus scorpius","Shorthorn sculpin","Chaboisseau à épines courtes",301,127203
+"32","Actinopterygii","Scorpaeniformes","Cottidae","Triglops murrayi","Mailed sculpin","Faux-trigle armé",304,127205
+"33","Actinopterygii","Scorpaeniformes","Cottidae","Artediellus uncinatus","Snowflake hookear sculpin","Hameçon neigeux",306,127195
+"35","Actinopterygii","Scorpaeniformes","Cottidae","Icelus spatula","Spatulate sculpin","Icèle saptulée",314,127200
+"42","Actinopterygii","Scorpaeniformes","Cyclopteridae","Cyclopterus lumpus","Lumpfish","Grosse poule de mer",501,127214
+"43","Actinopterygii","Scorpaeniformes","Cyclopteridae","Eumicrotremus spinosus","Atlantic spiny lumpfish","Petite poule de mer atlantique",502,127217
+"36","Actinopterygii","Scorpaeniformes","Hemitripteridae","Hemitripterus americanus","Sea raven","Hémitriptère atlantique",320,159518
+"41","Actinopterygii","Scorpaeniformes","Liparidae","Liparis","Seasnail unidentified","Limace non identifié",500,126160
+"34","Actinopterygii","Scorpaeniformes","Psychrolutidae","Cottunculus microps","Polar sculpin","Cotte polaire",307,127235
+"6","Actinopterygii","Scorpaeniformes","Sebastidae","Sebastes","Redfish","Sébaste",23,126175
+"24","Elasmobranchii","Rajiformes","Rajidae","Amblyraja radiata","Thorny skate","Raie épineuse",201,105865
+"25","Elasmobranchii","Rajiformes","Rajidae","Malacoraja senta","Smooth skate","Raie lisse",202,158554
+"26","Elasmobranchii","Rajiformes","Rajidae","Leucoraja ocellata","Winter skate","Raie tachetée",204,158553
+"28","Elasmobranchii","Squaliformes","Etmopteridae","Centroscyllium fabricii","Black dogfish","Aiguillat noir",221,105906
+"27","Elasmobranchii","Squaliformes","Squalidae","Squalus acanthias","Spiny dogfish","Aiguillat commun",220,105923
+"59","Cephalopoda","Oegopsida","Ommastrephidae","Illex illecebrosus","Shortfin squid","Encornet rouge nordique",4511,153087
+"58","Malacostraca","Decapoda","Nephropidae","Homarus americanus","Lobster","Homard",2550,156134
+"60","Malacostraca","Decapoda","Nephropidae","Homarus americanus","Sponge","Eponge",8600,156134
+"56","Malacostraca","Decapoda","Oregoniidae","Hyas coarctatus","Hyas coarctatus","Hyas coarctatus",2521,107323
+"57","Malacostraca","Decapoda","Oregoniidae","Chionoecetes opilio","Snow crab","Crabe des neiges",2526,107315
