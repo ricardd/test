@@ -20,7 +20,7 @@ spec.tab$order <- paste0("Order: ", spec.tab$order)
 vars <- c("class","order","family","scientificname","comm.english","comm.fr","species.code","aphia.id")
 knitr::kable(spec.tab[,vars], "latex", booktabs = TRUE, longtable = TRUE, align = "c", col.names = c("Class","Order","Family","Scientific name","English name","French name","Species code","AphiaID")) %>%
   kableExtra::landscape() %>%
-  kableExtra::kable_styling(font_size = 9, latex_options = "repeat_header", repeat_header_text = "", repeat_header_method = "replace") %>%  
-  kableExtra::collapse_rows(1:3, row_group_label_position = 'stack')
+  kableExtra::collapse_rows(1:3, row_group_label_position = 'stack') %>% 
+  kableExtra::kable_styling(font_size = 9, latex_options = "repeat_header", repeat_header_text = "", repeat_header_method = "replace")
 
 ```
